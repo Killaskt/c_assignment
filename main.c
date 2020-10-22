@@ -72,11 +72,6 @@ int main(int argc, char *argv[])
 				return 3;
 			}
 		}
-
-    switch () {
-      
-    }
-
 	}
 
 	// Error check
